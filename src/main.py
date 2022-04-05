@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # Coding: utf-8
 
-# Este software es Libre Travaja bajo la GPLv3
+# Este software es Libre Trabaja bajo la GPLv3
 
 ###################################################
 # Calculadora basica extendible para terminal
